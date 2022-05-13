@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/Kavo-GT/main/lua"))()
 
-local Window = Library.CreateLib("Light Step X - Main", "DarkTheme")
+local Window = Library.CreateLib("Light Step X - Strongman Simulator [BETA] ", "DarkTheme")
 
 local Tab1 = Window:NewTab("\\-Home-//")
 
@@ -159,3 +159,4 @@ Tab2Section:NewButton("Be Smaller","", function()
     end
 
 end) 
+--YO SKID FUCK YOUR DOG MF
